@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": "sku-001",
+      "title": "Camisa Linen Premium",
+      "price_cents": 7500,
+      "currency": "DOP",
+      "images": [
+        "images/camisa-1.jpg",
+        "images/camisa-2.jpg",
+        "images/camisa-3.jpg"
+      ],
+      "variants": [
+        {
+          "size": "S",
+          "color": "White",
+          "inventory": 5
+        },
+        {
+          "size": "M",
+          "color": "White",
+          "inventory": 3
+        },
+        {
+          "size": "L",
+          "color": "White",
+          "inventory": 2
+        },
+        {
+          "size": "S",
+          "color": "Black",
+          "inventory": 4
+        },
+        {
+          "size": "M",
+          "color": "Black",
+          "inventory": 0
+        }
+      ],
+      "description": "Camisa de lino con corte relajado. Diseño premium."
+    }
+  ]
+}
